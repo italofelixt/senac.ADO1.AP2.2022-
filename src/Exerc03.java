@@ -24,5 +24,4 @@ public class Exerc03 {
 		System.out.println("O dia da semana é: " + diaSemana[hojeEh]);
 
 	}
-
 }

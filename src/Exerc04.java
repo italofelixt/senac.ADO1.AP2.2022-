@@ -29,5 +29,4 @@ public class Exerc04 {
 		double x = peso * precoPor100g / 100;
 		return x;
 	}
-
 }

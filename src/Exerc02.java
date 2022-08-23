@@ -24,7 +24,6 @@ public class Exerc02 {
 		boolean x = ganhos >= gastos;
 
 		return x;
-
 	}
 
 }

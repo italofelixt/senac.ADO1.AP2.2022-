@@ -24,6 +24,5 @@ public class Exerc06 {
 		
 		System.out.printf("Sua compra de R$ %.2f em %dx de R$ %.2f foi concluída.", valorCompra, parcelas, valorParcela );
 	
-	}
-	
+	}	
 }

@@ -53,5 +53,4 @@ public class Exerc05 {
 
 		return valor;
 	}
-
 }

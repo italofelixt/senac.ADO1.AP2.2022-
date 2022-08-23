@@ -28,7 +28,6 @@ public class Exerc01 {
 			acao = "Farol inoperante";
 		}
 		return acao;
-
 	}
 
 }
